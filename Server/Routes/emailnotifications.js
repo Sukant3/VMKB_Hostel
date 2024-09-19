@@ -42,7 +42,7 @@ router.post("/send",verifyUser,async(req,res)=>{
 
       // sending email and providing data (what to send, whom to send, etc)
       let info = await transporter.sendMail({
-        from: "deepsalunkhee@gmail.com", // Sender address
+        from: "thombaresukant2003@gmail.com", // Sender address
         to: `${to}`, // Recipient's email
         subject: "You got a Notification", // Subject line
         text: emailContent, // Plain text body
