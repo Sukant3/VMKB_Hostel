@@ -1,7 +1,7 @@
-# Hostel Bank 💰💻
+# VMKB Hostel Bank 💰💻
 
 ## Introduction 🚀
-Hostel Bank is a web application designed to manage group finances and transactions among users. It allows users to create groups, add transactions, view transaction history, and receive notifications. If you have new feature ideas or want to improve existing features, you're always welcome to contribute!
+VMKB Hostel Bank is a web application designed to manage group finances and transactions among users. It allows users to create groups, add transactions, view transaction history, and receive notifications. If you have new feature ideas or want to improve existing features, you're always welcome to contribute!
 
 ## Features 🌟
 - **User Authentication**: Users can sign up and sign in to their accounts securely.
@@ -21,7 +21,7 @@ Hostel Bank is a web application designed to manage group finances and transacti
 
 ## Installation 🛠️
 
-1. Clone the repository: `git clone https://github.com/deepsalunkhee/Hostel_Bank`
+1. Clone the repository: `git clone https://github.com/Sukant3/VMKB_Hostel.git`
 2. Navigate to the project directory: `cd HostelBank`
 3. Install dependencies:
    - Frontend: `cd client && npm install`
